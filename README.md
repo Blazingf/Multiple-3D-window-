@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiple Window 3D Scene using Three.js
 
 ## Introduction
@@ -39,3 +40,6 @@ This project is open-sourced under the MIT License.
 
 ## Contact
 For more information and updates, follow [@_nonfigurativ_](https://twitter.com/_nonfigurativ_) on Twitter.
+=======
+# new-repo
+>>>>>>> cd62600becb6873458f8ca0f9491c86ba3c0b64b
